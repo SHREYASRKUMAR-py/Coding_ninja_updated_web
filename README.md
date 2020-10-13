@@ -2,7 +2,7 @@
 
 This is a simple website created on basic html,css and theme of the website is restaurant.
 
-Hosted Here - https://eloquent-ride-f39c97.netlify.app/
+Hosted Here - https://jolly-villani-a4e5dc.netlify.app/
 
 ## Resources of the workshop
 
